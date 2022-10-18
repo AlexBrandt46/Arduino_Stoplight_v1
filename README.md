@@ -1,3 +1,3 @@
-# Arduino_Stoplight_v1
+# Arduino Stoplight v1
 
-![image](https://user-images.githubusercontent.com/18668800/196079137-f9b595b1-5ff6-4fb0-8d8f-b3ad264f89ac.png)
+![arduino_stoplight_v1](https://user-images.githubusercontent.com/18668800/196553444-44c10367-c7fd-425b-a560-c31bd7fbb96d.svg)
